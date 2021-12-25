@@ -3,7 +3,11 @@
 
 这是一个个人的兴趣项目。欢迎有兴趣的同学一起参与到项目的讨论和开发。工作很忙，下班和周末有空会写一写，项目进展不定期。
 
-## 论文引用和参考资料
+## Introduction
+
+## 设计方案
+
+### 论文引用和参考资料
 http://media.gisera.com/jsjl/show/329.aspx
 
 Y. Furukawa, J. Ponce, Accurate camera calibration from multi-view stereo and bundle adjustment, Int. J. Comput. Vision, 84 (2009) 257-268.
