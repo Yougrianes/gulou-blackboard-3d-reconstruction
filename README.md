@@ -6,6 +6,7 @@
 ## Introduction
 
 ## 设计方案
+预期得到的结果是一个colored mesh。
 
 ### 论文引用和参考资料
 http://media.gisera.com/jsjl/show/329.aspx
