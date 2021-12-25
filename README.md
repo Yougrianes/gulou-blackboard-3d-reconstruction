@@ -6,3 +6,4 @@
 ## 论文引用和参考资料
 http://media.gisera.com/jsjl/show/329.aspx
 Y. Furukawa, J. Ponce, Accurate camera calibration from multi-view stereo and bundle adjustment, Int. J. Comput. Vision, 84 (2009) 257-268.
+https://zhuanlan.zhihu.com/p/76047709
